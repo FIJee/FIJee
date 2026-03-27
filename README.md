@@ -2,15 +2,15 @@
 
 ###
 
-<img align="left" height="450" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2ZrcXY0bGtsdmt1MDh3c2Zoemd3OXludDFpNzdheWY5Y2Rsem9vYyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fUpvkRuLKE4xMBJLvH/giphy.gif" />
+<img align="left" height="450" width="500" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2ZrcXY0bGtsdmt1MDh3c2Zoemd3OXludDFpNzdheWY5Y2Rsem9vYyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fUpvkRuLKE4xMBJLvH/giphy.gif" />
 
 ###
 
-<div align="center">
+
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 ###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
