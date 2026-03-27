@@ -1,52 +1,25 @@
-<h2 align="center">Hi 👋! My name is Firgi Setyawan <br>I'm a Rookie Dev from Indonesia 🇮🇩</h2>
+<h2 align="left">Hi 👋! My name is Firgi Setyawan and I'm a Rookie Dev, from Indonesia</h2>
 
-<br>
+###
 
-<!-- GIF -->
-<div align="center">
-  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2ZrcXY0bGtsdmt1MDh3c2Zoemd3OXludDFpNzdheWY5Y2Rsem9vYyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fUpvkRuLKE4xMBJLvH/giphy.gif" />
+<img align="left" height="450" width="500" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2ZrcXY0bGtsdmt1MDh3c2Zoemd3OXludDFpNzdheWY5Y2Rsem9vYyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fUpvkRuLKE4xMBJLvH/giphy.gif" /> 
+
+### 
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> </div>
+
+### 
+
+<div align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /> <img <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" /> 
 </div>
+  
+### 
 
-<br>
+  <div align="center"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /> </div> 
+  
+### 
 
-<!-- STATS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&layout=compact&theme=dracula" height="150"/>
-</div>
+<br clear="both"> <img src="https://raw.githubusercontent.com/FIJee/FIJee/output/snake.svg" alt="Snake animation" /> 
 
-<br>
-
-<!-- TECH STACK -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35"/>
-</div>
-
-<br>
-
-<!-- SOCIAL -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <img width="10"/>
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img width="10"/>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</div>
-
-<br><br>
-
-<!-- SNAKE -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FIJee/FIJee/output/snake.svg" alt="Snake animation" />
-</div>
+###
